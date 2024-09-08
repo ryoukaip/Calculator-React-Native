@@ -106,7 +106,8 @@ const Calculator = () => {
     <View style={styles.container}>
       {/* Scrollable topText */}
       <View style={styles.scrollWrapper}>
-      <TouchableOpacity style={styles.themeButton} onPress={() => {
+      {/* Dark mode switch */}
+      {/* <TouchableOpacity style={styles.themeButton} onPress={() => {
             if (darkMode) {
               setDarkMode(false);
             } else {
@@ -118,7 +119,7 @@ const Calculator = () => {
           size={24} 
           color={darkMode ? 'white' : 'black'} 
         />
-      </TouchableOpacity>
+      </TouchableOpacity> */}
         <ScrollView
           ref={scrollViewRef} // Reference the ScrollView
           horizontal={true}

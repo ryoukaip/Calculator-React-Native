@@ -40,4 +40,4 @@ yarn-error.*
 
 # vscode
 .vscode/
-App2.js
+/App2.js

@@ -1,5 +1,5 @@
 # About
-This is a simple calculator app created using React Native. The CSS is broken so it's only works with 18:9 (or longer) aspect ratio.
+This is a simple calculator app created using React Native & Expo. The CSS is broken so it's only works with 18:9 (or longer) aspect ratio.
 
 # Dependencies
 Node.js LTS

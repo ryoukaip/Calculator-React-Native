@@ -17,13 +17,13 @@ Open your terminal and run:
 I'm pretty sure you already know what to do. Cheers :)
 
 # Run the project
-1. Clone this repo
+#### Clone this repo
 `git clone https://github.com/ryoukaip/Calculator-React-Native.git`
-2. Change the directory to the project
+#### Change the directory to the project
 `cd Calculator-React-Native`
-3. Install dependencies
+#### Install dependencies
 `npm install`
-4. Run the project
+#### Run the project
 - Web:
 `npm run web`
 - Android:
